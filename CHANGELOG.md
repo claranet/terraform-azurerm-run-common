@@ -1,3 +1,8 @@
+# Unreleased
+
+Changed:
+  * [GH-1](https://github.com/claranet/terraform-azurerm-run-common/pull/1): Update `storage-account` version to 7.1.0
+
 # v7.0.0 - 2022-09-30
 
 Breaking
