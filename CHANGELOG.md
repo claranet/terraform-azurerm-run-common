@@ -1,3 +1,8 @@
+# Unreleased
+
+Changed
+  * AZ-908: Bump Function App module to `v7.2.0`
+
 # v7.2.0 - 2022-11-25
 
 Added
